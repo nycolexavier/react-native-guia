@@ -1,5 +1,4 @@
-
-
+![react-native-guide-banner](https://user-images.githubusercontent.com/74930052/133925699-c411ea4a-3a9d-4616-b49d-95b3f03c25b2.png)
 ----
 
 O que é React Native?
