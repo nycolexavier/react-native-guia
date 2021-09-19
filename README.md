@@ -18,3 +18,9 @@ Na forma tradicional de fazer aplicativo para as duas plataformas, você teria d
 Multiplataforma:
 
 ![forma multiplaforma de fazer um aplicativo](https://user-images.githubusercontent.com/74930052/133925847-9cc7999a-4b29-4856-87ca-6a092c215d9b.png)
+
+
+
+Entendendo a estrutura:
+
+![estrutura de um projeto em react native](https://user-images.githubusercontent.com/74930052/133926360-1a6eb614-b2b4-427d-8335-e6d49e4fc4c5.png)
