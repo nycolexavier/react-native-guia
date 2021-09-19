@@ -1,5 +1,4 @@
-![imagem descrevendo a forma tradicional de fazer aplicativo
-](https://user-images.githubusercontent.com/74930052/133925699-c411ea4a-3a9d-4616-b49d-95b3f03c25b2.png)
+![banner](https://user-images.githubusercontent.com/74930052/133925699-c411ea4a-3a9d-4616-b49d-95b3f03c25b2.png)
 ----
 
 O que é React Native?
@@ -14,4 +13,8 @@ Característica:
 
 Na forma tradicional de fazer aplicativo para as duas plataformas, você teria duas bases de códigos e teria que fazer tudo duas vezes: 
 
+![forma tradicional de fazer um aplicativo](https://user-images.githubusercontent.com/74930052/133925777-c0c7e9b7-6d56-4060-9834-eda7d25f9167.png)
 
+Multiplataforma:
+
+![forma multiplaforma de fazer um aplicativo](https://user-images.githubusercontent.com/74930052/133925847-9cc7999a-4b29-4856-87ca-6a092c215d9b.png)
