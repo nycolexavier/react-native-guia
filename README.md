@@ -24,3 +24,37 @@ Multiplataforma:
 Entendendo a estrutura:
 
 ![estrutura de um projeto em react native](https://user-images.githubusercontent.com/74930052/133926360-1a6eb614-b2b4-427d-8335-e6d49e4fc4c5.png)
+
+
+__test__ : pasta para fazermos teste
+
+.vscode: configurações do vscode 
+
+android: configurações nativos
+ios:configurações nativos
+
+node_modules: fica todas as library (não recomendado pra subir no github
+
+.editorconfig : trabalhar com configuração
+
+.flowconfig: verificador de tipagem
+
+.gitattributes:
+.gitgnore: arquivos que podem ser ignorados pra subir
+
+package.json:
+
+
+.eslintric. :dentro do código se tem algo fora do padrão
+
+prettierrsc: formatação do código
+
+se existe aleteração no nosso arquivo
+
+babel.config,js:
+
+index.js: inializaçõa de qual interface precisa ser aberta
+
+metro.config.js: pega 
+
+yarn.lock: ter um histórico de todas as dependência 
